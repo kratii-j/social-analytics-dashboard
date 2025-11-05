@@ -1,0 +1,17 @@
+# Python Virtual Environments and Compiled Files
+.venv
+venv/
+*.pyc
+__pycache__/
+
+# Node/NPM Modules (CRITICAL: Prevents node_modules from being committed)
+node_modules/
+/frontend/node_modules
+
+# Operating System and Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Environment Variables and Local Configuration
+.env
